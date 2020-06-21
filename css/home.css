@@ -1,0 +1,58 @@
+.pictures {
+    margin: auto;
+}
+#home {
+    color: #008CBA;
+    font-weight: bold;
+}
+.pictures td:nth-child(odd) {
+    height: 350px;
+    width: 250px;
+    border: 1px #008CBA;
+    background: linear-gradient(to bottom, #888f9c 60%,#42474C 100%);
+    color: white;
+    text-align: center;
+    border-radius: 20px;
+    margin-bottom: 200px;
+}
+
+.pictures td:nth-child(even) {
+    width: 50px;
+}
+
+.blank {
+    height: 30px;
+}
+
+.homepage {
+    display: block;
+    text-align: center;
+
+}
+tr td h3{
+    color:white;
+}
+
+tr td p{
+    color: white;
+}
+.blank2 {
+    height: 10px;
+}
+footer{
+    column-count: 3;
+    padding-top: 10px;
+    column-gap: 20px;
+    line-height: 2.5rem;
+}
+
+a{color: #EEF0F1;
+text-decoration: none;}
+
+.icon{
+    display: flow;
+    float:right;
+    position: fixed;
+    left:90%;
+    top:80%;
+}

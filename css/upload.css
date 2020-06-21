@@ -1,0 +1,46 @@
+body {
+    color: white;
+}
+
+#topic {
+    text-align: center;
+    display: block;
+    font-size: 20pt;
+    line-height: 5rem;
+}
+
+
+.center {
+    display: block;
+    text-align: center;
+}
+
+#upload {
+    color: black;
+    line-height: 25px;
+    position: relative;
+    left: 60px;
+}
+
+.center table {
+    margin: auto;
+    text-align: left;
+    padding: 10px;
+}
+
+.center table td {
+    padding: 5px;
+}
+
+img {
+    max-width: 500px;
+    max-height: 300px;
+
+}
+
+#preview {
+    width: 500px;
+    height: 300px;
+    margin: auto auto 10px;
+    background-color: rgba(255, 255, 255, 0.8);
+}

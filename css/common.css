@@ -1,0 +1,77 @@
+body {
+    background: linear-gradient(to bottom, #42474C, #a5acbc 65%, #42474C);
+}
+
+
+
+/*nav a {*/
+/*    position: relative;*/
+/*    padding: 15px;*/
+/*    color: #EEF0F1;*/
+/*    text-decoration: none;*/
+
+/*}*/
+
+/*nav a:hover {*/
+/*    color: #146DDE;*/
+/*}*/
+
+/*!*.dropdown span {*!*/
+/*    padding-top: 10pt;*/
+/*    float: right;*/
+/*    color: #EEF0F1;*/
+/*    text-decoration: none;*/
+/*    !* padding-right: 15%; *!*/
+/*}*/
+
+/*.dropdown-content {*/
+/*    display: none;*/
+/*    position: relative;*/
+/*    background-color: #42474C;*/
+/*    min-width: 170px;*/
+/*    z-index: 1;*/
+/*    float: none;*/
+/*    top: 40px;*/
+/*}*/
+
+/*.dropdown-content table {*/
+/*    position: absolute;*/
+/*    top: 0px;*/
+/*    left: 45px;*/
+/*    background-color: #42474C;*/
+/*    height: 5px;*/
+/*    width: 100%;*/
+/*    border-radius: 5px;*/
+
+/*}*/
+
+
+/*.dropdown-content table td a {*/
+/*    bottom: 2px;*/
+/*}*/
+
+/*.dropdown:hover .dropdown-content {*/
+/*    display: block;*/
+/*    width: 0px;*/
+/*}*/
+
+footer {
+    background-color: #42474C;
+    color: #EEF0F1;
+    width: 100%;
+    text-align: center;
+    line-height: 2em;
+}
+
+button {
+    background-color: #008CBA;
+    border: none;
+    color: #EEF0F1;
+    padding: 15px 32px;
+    /* text-align: -webkit-left; */
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    border-radius: 8px;
+    margin-bottom: 10px;
+}

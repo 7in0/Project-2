@@ -1,0 +1,26 @@
+body {
+    text-align: center;
+    color: #EEF0F1;
+}
+
+h3 {
+    padding-top: 60px;
+    color: #EEF0F1;
+    font-size: 26px;
+}
+
+input {
+    width: 200px;
+    margin: 6px;
+    border-radius: 5px;
+    box-shadow: 5px 5px 5px #b8b8b8;
+}
+
+.pictures {
+    position: relative;
+    width: 100%;
+    margin: auto;
+    height: 190px;
+    background: url(../../images/register.jpg) no-repeat center;
+    background-size: 1500px auto;
+}
